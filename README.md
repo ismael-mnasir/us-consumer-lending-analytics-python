@@ -2,7 +2,6 @@ Markdown
 # US Consumer Lending Analytics & Credit Risk Pipeline
 
 An end-to-end Python analytics framework examining 2.26M+ LendingClub loan records (2007–2018) to evaluate borrower retention, credit risk, debt recovery, macroeconomic vintage shifts, and underwriting net profit yield efficiency.
-
 ---
 
 ## Project Structure
